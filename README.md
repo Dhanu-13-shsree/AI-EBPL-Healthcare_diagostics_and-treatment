@@ -1,4 +1,4 @@
-Features
+Features:
 
  1.Diagnostics Features:
      *Medical Imaging Analysis: Automated analysis of X-rays, MRIs, CT scans, and ultrasounds to detect anomalies like tumors, fractures, or infections. Biomarker Identification: Recognizes biomarkers for diseases like Alzheimer's, Parkinson's, and various cancers.Real-time Data Monitoring: Tracks vital signs in real time for early intervention in critical care.
