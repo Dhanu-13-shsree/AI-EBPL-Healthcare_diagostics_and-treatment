@@ -1,5 +1,3 @@
-AI-EBPL---healthcare-diagnostic-and-treatment
-
 Features:
 
  1.Diagnostics Features:
